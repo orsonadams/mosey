@@ -1,9 +1,13 @@
-In the brief experiments above there where somethings I which I had:
-* how to compare models at a glance
-* how to run save models that are good
-* how to track and save experimentation parameters
-* how to run models async asynchronously 
-* how to track data used for specific models
+Why Mosey?
+---
+
+Experiments leave me wanting
+
+* to compare models at a glance
+* to run save models that are good
+* to track and save experimentation parameters
+* to run models async asynchronously 
+* to track data used for specific models
 
 So I built mosey an lightweight experimentation pipeline 
 that runs on the MOSI dataset but is generalizable to _any_ machine learning
